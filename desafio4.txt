@@ -1,0 +1,6 @@
+Respota do desafio 4
+
+primeiro eu ligaria o primeiro interruptor e esperaria algum tempo, então o desligaria e ligaria o segundo interruptor.
+Então entraria na primeira sala, se a lampada estiver desligada e com a temperatura fria ligaria o terceiro interruptor
+e iria na segunda sala, se ela estivesse com a lampada desligada e com a temperatura fria, concluiria que que o terceiro 
+interruptor controla a terceira lampada.
