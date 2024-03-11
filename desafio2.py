@@ -3,7 +3,7 @@ def fibonacci(numero):
     num2 = 1
     cont = 3
     if numero == 0 or numero == 1:
-        return 'Este numuro pertence a sequência de fibonacci'
+        return 'Este numero pertence a sequência de fibonacci'
     while cont <= numero:
         num3 = num1 + num2
         num1 = num2
